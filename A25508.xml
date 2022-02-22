@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer of the Company of Royal Adventurers of England trading into Africa to the petition and paper of certain heads and particulars thereunto relating and annexed exhibited to the Honourable House of Commons by Sir Paul Painter, Ferdinando Gorges, Henry Batson, Benjamin Skutt, and Thomas Knights on the behalf of themselves and others concerned in His Majesties plantations in America.</title>
+            <author>Royal African Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25508</idno>
+            <idno type="STC">Wing A3290</idno>
+            <idno type="STC">ESTC R15306</idno>
+            <idno type="EEBO-CITATION">11925560</idno>
+            <idno type="OCLC">ocm 11925560</idno>
+            <idno type="VID">51009</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51009)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer of the Company of Royal Adventurers of England trading into Africa to the petition and paper of certain heads and particulars thereunto relating and annexed exhibited to the Honourable House of Commons by Sir Paul Painter, Ferdinando Gorges, Henry Batson, Benjamin Skutt, and Thomas Knights on the behalf of themselves and others concerned in His Majesties plantations in America.</title>
+                  <author>Royal African Company.</author>
+                  <author>Painter, Paul, Sir, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Petition and answer on opposite pages.</note>
+                  <note>Place of publication from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slave trade --  England.</term>
+               <term>Great Britain --  Colonies --  America.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51009:1" rendition="simple:additions"/>
+            <pb facs="tcp:51009:1"/>
+            <pb facs="tcp:51009:2"/>
+            <pb facs="tcp:51009:2"/>
+            <p>AN ANSWER OF THE COMPANY OF Royal Adventurers OF ENGLAND TRADING INTO AFRICA, TO THE PETITION and PAPER of certain Heads and Particulars thereunto relating and annexed, exhi<g ref="char:EOLhyphen"/>bited to the Honourable Houſe of <hi>Commons</hi> by Sir <hi>Paul Painter, Ferdinando Gorges, Henry Bat<g ref="char:EOLhyphen"/>ſon, Benjamin Skutt,</hi> and <hi>Thomas Knights,</hi> on the behalf of Themſelves and Others concerned in His Majeſties Plantations in <hi>America.</hi>
+            </p>
+            <p>Anno Dom. 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:51009:3"/>
+            <pb n="1" facs="tcp:51009:3"/>
+            <head>To the Right Honourable the Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgeſſes Aſſembled in PARLIAMENT. The Humble Petition of Sir <hi>Paul Painter</hi> Knight, <hi>Ferdinando Gorges, Henry Batſon,</hi> Gentle<g ref="char:EOLhyphen"/>men, and <hi>Benjamin Skutt</hi> and <hi>Thomas Knights</hi> Merchants, in behalf of themſelves and others concerned in His Majeſties Plantations in <hi>Ame<g ref="char:EOLhyphen"/>rica.</hi>
+            </head>
+            <opener>HUMBLY SHEWETH,</opener>
+            <p>THat His Majeſties Plantations (having been the moſt conſiderable Trade of this Nation) were at firſt raiſed, and have been brought to the perfection that they now are at, and now do, and did alwaies moſt principally ſubſiſt by the labour of <hi>Negro</hi> Servants, and a plentiful ſupply of them.</p>
+            <p>That formerly there hath alwaies been a freedom of Trade for all His Majeſties Subjects for <hi>Negroes</hi> on the whole coaſt of <hi>Guiney,</hi> by reaſon whereof the ſaid Planta<g ref="char:EOLhyphen"/>tions have been plentifully ſupplied with <hi>Negroes</hi> of the beſt ſort, and at an indifferent rate, to the great encreaſe of the ſaid Plantations, and the advantage and profit of this Crown and Nation.</p>
+            <p>That there is of late a new erected <hi>Company</hi> of <hi>Adventu<g ref="char:EOLhyphen"/>rers</hi> Trading into <hi>Africa,</hi> who claiming to themſelves the
+<pb n="2" facs="tcp:51009:4"/>
+ſole and only Trade for <hi>Negroes</hi> on the coaſt of <hi>Guiney,</hi> have totally obſtructed the former free Trade of all Adventurers thither; and having contracted with Forreiners for the ſupply of the <hi>Spaniſh</hi> Plantations with <hi>Negroes,</hi> do leave the <hi>Engliſh</hi> Plantations in <hi>America,</hi> which produce the ſame Commodities with the <hi>Spaniſh,</hi> either ill ſupplied, and at exceſſive prices, or not at all ſupplied; by reaſon whereof, and of the obſtruction of the freedom of Trade for <hi>Negroes</hi> as aforeſaid, all His Majeſties Plantations in <hi>America</hi> are at preſent much decayed, and unleſs a timely remedy be pro<g ref="char:EOLhyphen"/>vided, will ſpeedily be brought to inevitable deſtruction.</p>
+            <closer>
+               <signed>
+                  <hi>Your Petitioners do therefore moſt humbly pray Your Honours, upon conſideration of the Premiſes, and of the Paper hereunto annexed, to provide ſuch re<g ref="char:EOLhyphen"/>medy therein as to Your Grave Wiſdoms ſhall ſeem fitteſt,</hi> And Your Petitioners, as in duty bound, ſhall ever pray, <hi>&amp;c.</hi>
+                  <list>
+                     <item>
+                        <hi>Paul Painter.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Batſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Ferdinando Gorges.</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Skutt.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Knights.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:51009:4"/>
+            <head>Die Veneris, <hi>15</hi> Nov. <hi>1667.</hi>
+            </head>
+            <p>A Petition of Sir <hi>Paul Painter</hi> Knight, <hi>Ferdinando Gorges</hi> Gent. and others, on the behalf of them<g ref="char:EOLhyphen"/>ſelves and others, concerning His Majeſties Plantations in <hi>America,</hi> and the Paper of certain Heads and Particu<g ref="char:EOLhyphen"/>lars relating thereto, and annexed to the Petition, were read.</p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <opener>
+                     <hi>Reſoved,</hi> &amp;c.</opener>
+                  <p>THat the ſaid Petition and Paper annexed be committed to the Committee of the whole Houſe appointed to take into conſideration the general Ballance of Trades; And that the Clerk of this Houſe do deliver Copies thereof to ſuch per<g ref="char:EOLhyphen"/>ſons as ſhall deſire the ſame on the behalf of the Royal Com<g ref="char:EOLhyphen"/>pany, or other perſons concerned, who are to deliver in their Anſwer thereto in writing by this day ſeven-night; and that the Royal Company do then cauſe their Charter to be brought in.</p>
+                  <closer>
+                     <signed>
+                        <hi>WILL. GOLDESBROUGH,</hi> Cler. Dom. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="text">
+            <div type="document">
+               <pb n="4" facs="tcp:51009:5"/>
+               <head>The <hi>Paper</hi> of certain Heads and Particulars annexed, and relating to the aforementioned <hi>Petition.</hi>
+               </head>
+               <p>THE great and high Advantages which have formerly accrued unto his Majeſty and his Subjects, by his Majeſties Colonies in <hi>America,</hi> may much appear in theſe Particulars.</p>
+               <p n="1">1. The ſaid Colonies have yearly imployed above Four Hundred Sayle of Ships, moſt of them conſiderable both of burthen and force, to the great encouragement of Navigation, and increaſe of Sea-men, which have been ever reputed as the mayne Bulwark and Defence of this Nation.</p>
+               <p n="2">2. The ſaid Ships for the moſt part were fraughted out with Manu<g ref="char:EOLhyphen"/>ctures of <hi>England,</hi> (viz.) Shooes, Stockings, Serges, Broad-cloaths, Carſeys, Hatts, all ſorts of Wrought Iron; with great ſtore of Provi<g ref="char:EOLhyphen"/>ſions, as Beef, Butter, Flower, Peaſe, <hi>&amp;c.</hi> which gave Imployment and Bread to many Thouſands of Families here, and put a Value upon the Commodities of our own Growth and Manufacture; which otherwiſe would have ſoon abated in their price, and been of little worth.</p>
+               <p n="3">3. The ſaid Ships in return of the ſaid Goods and Manufactures came laden home with Sugars, Cotton, Ginger, Indigo, Tobacco, <hi>&amp;c.</hi> all which were produced by the Induſtry of the laborious Planter, with the help and former conſtant ſupply of <hi>Negroes</hi> brought to them from the Coaſt of <hi>Guiney,</hi> &amp;c. without which the ſaid Colonies muſt inevitably be reduced to ruine and deſtruction.</p>
+               <p n="4">4. The Manufactury of this Nation exported, as alſo the Sugars, <hi>&amp;c.</hi> imported, brought in a great Revenue unto his Majeſties Cuſtomes; which was not onely very conſiderable in its ſelf, in reſpect of other vaſt Advantages which accrued thereby unto his Majeſty and Subjects in ge<g ref="char:EOLhyphen"/>neral, <hi>(viz.)</hi> The moſt part of the ſaid Sugars, <hi>&amp;c.</hi> were from hence ſhipt out again and exported into Foreign Countries, and by that means returned back unto us large ſummes of Money or Commodities equivalent, for that upon the great Wheel of Trade of good and Staple Commodities are little inferior to, or leſs affected than ready Bullion.</p>
+               <div type="response">
+                  <pb n="5" facs="tcp:51009:5"/>
+                  <head>The Anſwer of the Royal Company to the Paper of certain Heads and Parti<g ref="char:EOLhyphen"/>culars annexed and relating to the afore-mentioned Petition.</head>
+                  <p>THe ſaid Company do acknowledge, That his Majeſties Plantati<g ref="char:EOLhyphen"/>ons are conſiderable for the Trade of this Nation, and ſo were, before the Eſtabliſhment of this Company: But they ſay, That the ſaid Plantations were never ſo well ſupplied during the pre<g ref="char:EOLhyphen"/>tended freedom of Trade for <hi>Blacks,</hi> as they have been by this Com<g ref="char:EOLhyphen"/>pany, ſince they were eſtabliſhed, nor his Majeſties Revenue by Cuſtoms larger, nor the Trade for thoſe parts ever more fully ſupplied with all ſorts of Merchandiſes and Proviſions.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:51009:6"/>
+               <head>An Accompt of divers Obſtructions to the beforementioned Advantages, occaſioned by the late erected <hi>Company of Adventurers</hi> trading into <hi>Africa,</hi> who have ſolely ingroſſed the <hi>Guiney</hi> Trade for <hi>Negroes;</hi> which muſt inevitably ruine His Majeſties ſaid Colonies in <hi>Ameri<g ref="char:EOLhyphen"/>ca,</hi> unleſs timely prevented.</head>
+               <div n="1" type="article">
+                  <p n="1">1. THE ſaid <hi>Guiny</hi> Trade for <hi>Negroes</hi> was formerly Free to all Adventurers, and that without prejudice to the Gold Trade there, which was heretofore mannaged by the <hi>East India Company,</hi> for that the ſame cannot be well maintained without a great and general Charge, as the building of Forts, ſettling continued Factories, <hi>&amp;c.</hi> which the Trade for <hi>Negroes</hi> in no wiſe requires, It being the moſt uſual way for the ſaid Adventurers to procure their <hi>Negroes</hi> by Ranging or Coaſting it along thoſe vaſt Territories, without intrenching upon, or aſſiſtance from the ſaid Factories and Forts. By which freedom of the ſaid Adventurers Trade the Planters were heretofore plentifully ſupplyed with <hi>Negroes</hi> upon reaſonable tearms, without which they can<g ref="char:EOLhyphen"/>not ſubſiſt; And likewiſe had of courſe conſiderable Credit with the ſaid Adventurers, whereby the ſaid Colonies have attained unto their late perfection, without any coſt or charge to this Kingdom; And unleſs ſuch freedom be continued, the Plantations already compleated will ſoon decay, and thoſe that are in their Infancy never advance.</p>
+                  <div n="1" type="response">
+                     <pb n="7" facs="tcp:51009:6"/>
+                     <head>And as to the Obſtructions which they object this Company have given to that Trade, They hope this Honourable Houſe will by the Anſwers hereunder written receive ſatisfaction, and judge that the Petitioners Complaints are altogether cauſeleſs.</head>
+                     <head type="sub">In Anſwer to their firſt Article, the ſaid Company ſay,</head>
+                     <p>THe whole Trade of <hi>Guiney, Binny,</hi> and <hi>Angola,</hi> was incorporated many years ſince by a Patent, as now it is; and thoſe Patentees purchaſed Lands of the Natives, and for their neceſſary ſecurity erected ſeveral Forts, Garriſons, and Factories, on the Gold Coaſt, and other places; who after they applied themſelves principally to the Trade of Gold, did in few years loſe the greateſt part of their Stock; and the reaſon was, becauſe the profit of that Trade would not defray their charge of maintaining Forts and Factories, and the hire of Ships, which brought home nothing but a Pot of Gold to defray their freight, there being at that time very little or no Trade for <hi>Blacks</hi> to the Plantations. About ten or twelve years ſince they licenſed Ships at 10 <hi>per Cent.</hi> on the <hi>Cargoes:</hi> And then, the exporting of Gold out of <hi>England</hi> being prohibited, and the Trade of <hi>India</hi> being principally carried on with ready money, the <hi>Eaſt-India</hi> Company for their conveniency hired the Caſtles, Forts, and Trade of the Gold-Coaſt, of the ſaid former Com<g ref="char:EOLhyphen"/>pany, which did turn to account to them, in regard their Ships out<g ref="char:EOLhyphen"/>ward bound to <hi>India</hi> touched there without any conſiderable charge, landed their Goods, and carried away the Gold to <hi>India:</hi> But ſince this Company was erected, they having ſetled ſeveral more conſiderable Forts and Factories, and been at charge to maintain them, they have found, That the Trade of the Gold-Coaſt cannot poſſibly be maintain<g ref="char:EOLhyphen"/>ed without the <hi>Negro</hi> Trade: And notwithſtanding what the Petitio<g ref="char:EOLhyphen"/>ners ſay to the contrary, That very <hi>Negro</hi> Trade cannot be carried on ſo well as by going firſt to the Gold-Coaſt, and taking thence ſome of thoſe <hi>Negroes</hi> for Guardians to the Leeward Coaſt <hi>Negroes.</hi>
+                     </p>
+                     <p>And ſhould not this Trade for <hi>Negroes</hi> be carried on by a Company, as the Petitioners confeſs the Gold-Coaſt Trade ought to be, the Tra<g ref="char:EOLhyphen"/>ders would be ſubject to the Injuries, Affronts, and Loſſes as formerly, of which the private Traders a little before the beginning of the late <hi>Dutch</hi> War complained to this Honourable Houſe againſt the <hi>Dutch,</hi> alledging their Loſſes alone, immediately before the erecting of this Company, to amount unto 300000 <hi>l. Sterling,</hi> or thereabouts; for the preventi<g ref="char:EOLhyphen"/>on of which, this Company ſince their Trading there have conſtantly
+<pb n="9" facs="tcp:51009:7"/>
+ſent out Ships of force to protect their Trade for <hi>Blacks;</hi> and whenever that care is neglected, that Trade will be loſt; for the charge of its prote<g ref="char:EOLhyphen"/>ction cannot be maintained by private Traders.</p>
+                     <p>And the ſaid Company farther ſay, That they have ſupplied the Plantations more plentifully and cheaper, and given as much credit or more for <hi>Negroes,</hi> then ever the private Traders did or could give, as will appear; by which means all the Plantations have flouriſhed more then ever they did, until the late War broke out: So that it may rea<g ref="char:EOLhyphen"/>ſonably be concluded, That if the <hi>Negro</hi> Trade ſhould be ſeparated from the Gold-Coaſt Trade, and ſo left open, it would certainly loſe the Gold-Trade, which cannot bear its own expence, and prove a great prejudice to, if not the ruine of the <hi>American</hi> Plantations.</p>
+                  </div>
+               </div>
+               <div n="2" type="article">
+                  <pb n="8" facs="tcp:51009:7"/>
+                  <p n="2">2. The ſaid late erected Company are of late very much ſunk in their Credits amongſt Merchants, Owners of Shipping and Tradeſmen, to many of whom they are very much indebted for Freight of their Ships and Goods, And being often demanded to pay the ſame Debts, they have refuſed, and ſtill do refuſe to pay the ſame, declaring they have no effects in their hands to enable them ſo to do; and ſo by conſequence their Trade following their Credit, they are, and needs muſt be very un<g ref="char:EOLhyphen"/>capable to afford the ſaid Colonies any ſuitable ſupply of <hi>Negroes,</hi> and alſo mannage their Gold-Trade; Whereupon they have lately taken up an unknown way of granting their Licences to others of his Maje<g ref="char:EOLhyphen"/>ſties good Subjects to fetch <hi>Negroes</hi> from <hi>Guiny,</hi> exacting for the ſame two, three, four and five Hundred pounds a Ship; which ſaid Summes of Money ſome have been inforced to give, or ſit ſtill, and ſuffer their Plantations to come to ruine, which is the moſt intollerable Grievance and Oppreſſion that ever was impoſed upon his Majeſties Subjects planting in theſe parts, and trading to the ſame.</p>
+                  <div n="2" type="response">
+                     <head>To the ſecond the ſaid Company ſay,</head>
+                     <p>It's too true, That the Company is indebted to ſeveral perſons, occaſi<g ref="char:EOLhyphen"/>oned by their great loſſes; <hi>viz.</hi> There was taken from them at <hi>Goree</hi> by <hi>de Ruyter</hi> the value of 100000 <hi>l. Sterling,</hi> at <hi>Cormentine</hi> 60000 <hi>l. Ster<g ref="char:EOLhyphen"/>ling,</hi> at <hi>Sereleon</hi> 4000 <hi>l. Sterling,</hi> at <hi>Syrinam</hi> and <hi>S. Chriſtophers</hi> 20000 <hi>l. Sterling.</hi> But theſe Loſſes could not have ſunk the Companies Credit, had the Planters and Merchants, eſpecially thoſe of <hi>Barbados,</hi> complied with their obligations, who owe the Company 90000 <hi>l. Sterling,</hi> of which they of <hi>Barbados</hi> owe 60000 <hi>l. Sterling,</hi> which laſt debt is thrice as much as the Company owes to any beſides their own Members. Yet the Company do not refuſe to pay their debts, but pay intereſt to all their Creditors, and do diſcharge Principal and Intereſt as faſt as their effects come in, which are coming daily. Nor have they only enough left to pay their debts, but likewiſe to carry on the Gold-Trade, and fur<g ref="char:EOLhyphen"/>niſh the Plantations yearly with as many <hi>Negroes</hi> as they ſhall have occaſi<g ref="char:EOLhyphen"/>on for, and that at moderate rates, hoping they will pay their old debts, and be more juſt and punctual in their payments in future.</p>
+                     <p>But yet they acknowledge, becauſe their Effects were abroad, they were forced rather then the Plantations ſhould want a ſupply of <hi>Negroes</hi> for this time, to give Licenſes to ſeveral perſons to Trade to <hi>Guiney,</hi> and have taken of them towards the maintenance of Forts 3 <hi>l. per</hi> Ton, or 10 <hi>per Cent.</hi> on the <hi>Cargo,</hi> which is leſs then the Company pays in proportion upon their whole Trade; which is the courſe that hath been taken not only by the former <hi>Guiney</hi> Company, but by the <hi>Eaſt-India</hi> Company in their late united Stock: And the Company hath hither<g ref="char:EOLhyphen"/>to been ſo careful to ſupply the Plantations, that in the time of the great
+<pb n="11" facs="tcp:51009:8"/>
+Contagion (when all people fled from the City) they did diſpatch nine Ships to <hi>Guiney</hi> purpoſely to ſupply them with <hi>Negroes,</hi> and ſo have continued diſpatching Ships ſucceſſively all the time of the late War, ſo that there hath not been any want of <hi>Negroes</hi> in any of the Plantations.</p>
+                  </div>
+               </div>
+               <div n="3" type="article">
+                  <pb n="10" facs="tcp:51009:8"/>
+                  <p n="3">3. They have contracted with the <hi>Spaniards</hi> to ſupply them yearly for a term of years with Thouſands of <hi>Negroes,</hi> which the <hi>Spaniard</hi> imployes in planting the ſame Commodities in his Plantations, as are now planted in His Majeſties Plantations; which Contract the ſaid Company hitherto have not, and for the future muſt not faile to perform, although his Majeſties Plantations remain totally unſupplyed; whereby the <hi>Spaniſh</hi> Plantations and Commodities muſt of neceſſity flouriſh and riſe, and his Majeſtie's moulder away, and come to nothing, Whereas the Free Adventurers for the <hi>Negroes</hi> Trade formerly never uſed to ſell any <hi>Negroes</hi> to the <hi>Spaniards</hi> or other Foreigners whatſoever, but brought all to his Majeſties Plantations, and thereby the ſame being plentifully and at indifferent rates ſupplyed with <hi>Negroes,</hi> have riſen to be ſo conſiderable a part of the Intereſt and care of the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as they now are.</p>
+                  <div n="3" type="response">
+                     <head>To the third the ſaid Company ſay,</head>
+                     <p>It is true, That the Company underſtanding that the <hi>Spaniards</hi> were Treating with the <hi>Dutch Weſt-India</hi> Company to furniſh them yearly with a number of <hi>Negroes,</hi> for preventing of that Bargain to the <hi>Hollanders</hi> (which muſt inevitably have brought a great inconveniency upon the Plantations, by the competition with the <hi>Hollanders</hi> for the procuring of <hi>Negroes</hi>) and to bring a conſiderable return in ready money into this Kingdom, and hoping thereby in time to introduce a Trade into the <hi>Spaniſh Weſt-Indies,</hi> did contract with them for the delivery of a certain number of <hi>Negroes</hi> yearly (though at a low rate, yet ſuch as would have brought yearly into this Kingdom in pieces of Eight 100000 <hi>l. Sterling,</hi>) on purpoſe to keep the Trade from the <hi>Dutch:</hi> But they never delivered to the <hi>Spaniards</hi> more then 1200 <hi>Negroes,</hi> nor are they obliged to deliver them any more, becauſe they have broken their Articles with the Company. And notwithſtanding that Agree<g ref="char:EOLhyphen"/>ment, the Company furniſhed the Plantations with 6000 <hi>Negroes</hi> and upwards every year; which were more than they would buy of the Company, who were forced to keep many of them on their hands until they periſhed: And it ſeems very ſtrange the Planters ſhould complain of the Companies ſelling <hi>Negroes</hi> to the <hi>Spaniards,</hi> when as they them<g ref="char:EOLhyphen"/>ſelves ſold many of the <hi>Negroes</hi> they bought of the Companies Factors to the <hi>Spaniards;</hi> Nor do the <hi>Spaniards,</hi> as they alledge, imploy their <hi>Negroes</hi> to make the ſame Commodities as our Plantations do furniſh: For it's well known they uſe them chiefly in their Silver-Mines, and Do<g ref="char:EOLhyphen"/>meſtick-Service.</p>
+                  </div>
+               </div>
+               <div n="4" type="article">
+                  <p n="4">4. They have greatly oppoſed the Planters in putting an unreaſon<g ref="char:EOLhyphen"/>able Price upon the <hi>Negroes,</hi> which were brought upon the ſaid Com<g ref="char:EOLhyphen"/>panies Accompt, for that formerly they were ſold for 12, 14, and 16 pounds Sterling a Head, or 1600 <hi>l.</hi> and 1800 <hi>l.</hi> of Sugar, And now of late Five and twenty pounds a Head Sterling would have been given by his Majeſties Subjects the Planters, when at the ſame time they ſold to the <hi>Spaniards</hi> the Chief of their <hi>Negroes</hi> for Eighteen pounds Sterling a
+<pb n="12" facs="tcp:51009:9"/>
+Head, intending thereby to compell the ſaid Planters to a moſt unreaſon<g ref="char:EOLhyphen"/>able Complyance; By which means alſo none but the Refuſe <hi>Negroes</hi> were left to be ſold unto the <hi>Engliſh</hi> Planters, who refuſing to buy the ſaid Refuſe moſt of them died upon the ſaid Companies hands; And the ſaid Planters have been of late ſo meanly ſupplyed, that <hi>Negroes</hi> are now ſold to them at the rate of Thirty pounds Sterling, or Five thouſand pound of Sugar each <hi>Negro;</hi> This uſage ſo diſcontented the Planters, that they reſolved not to load upon the ſaid Companies Ships, although the Freight was offered by them under half the value then given to other Ships, and the Grievances of the Planters in this particular in all pro<g ref="char:EOLhyphen"/>bability might too much contribute to the too eaſie Surrender of <hi>St. Chriſtophers</hi> and <hi>Syrinam.</hi>
+                  </p>
+                  <div n="4" type="response">
+                     <head>To the Fourth the ſaid Company ſay,</head>
+                     <p>The Company did ſupply very plentifully all the Plantations with <hi>Negroes;</hi> and that there might be no cauſe of Complaint, they infor<g ref="char:EOLhyphen"/>med themſelves immediately after the ſealing of the Patent how <hi>Negroes</hi> had been ſold the four precedent years, and found that 17 <hi>l. per</hi> Head or 2400 pound of Sugar was the <hi>medium</hi> price, and they ordered their Fa<g ref="char:EOLhyphen"/>ctors to ſell them to the Planters accordingly, and gave notice thereof
+<pb n="13" facs="tcp:51009:9"/>
+to his Excellency the L. <hi>Willoughby</hi> Governor of the <hi>Barbadoes, &amp;c.</hi> to be communicated to all the Plantations; Who did publiſh the ſame by Drum and Trumpets, and cauſed the Companies printed Declaration to be fixed in all publick places of the Iſland of <hi>Barbadoes, &amp;c.</hi> Co<g ref="char:EOLhyphen"/>pies of both which Letters are hereunto annexed. And the Company ſay its utterly untrue, That the Planters would have given 25 <hi>l.</hi> for ſuch <hi>Negroes</hi> as were ſold the <hi>Spaniards,</hi> or that none but Refuſe <hi>Negroes</hi> were left to be ſold to the Planters; for that the Company alwayes did order them to be ſold in Lotts according to the cuſtome of the Countrey. It may be true, they have of late (by reaſon of the Accidents of the War) paid 30 <hi>l.</hi> for <hi>Negroes;</hi> and ſo we have in <hi>London</hi> given 6 <hi>l. per</hi> Chal<g ref="char:EOLhyphen"/>dron for Coals, when before the War they were ſold at 20 <hi>s.</hi> But it is utterly untrue, That the Planters for that pretended cauſe refuſed to load Goods on the Companies Ships; for they have conſtantly refuſed thoſe advantagious offers of cheap Freight on the Companies Ships from the beginning, even at that time when <hi>Negroes</hi> were ſold them at 17 <hi>l. per</hi> Head. And it is a ſufficient Evidence, that <hi>Syrinam</hi> and <hi>St. Chri<g ref="char:EOLhyphen"/>ſtophers</hi> were very well ſupplyed with <hi>Negroes,</hi> by the great Loſs the Company had in each place; and alſo by Letters received from the Go<g ref="char:EOLhyphen"/>vernor of <hi>Syrinam,</hi> who ownes, That the Credit they had from this Company had brought that Place to that good condition they were in before the <hi>Dutch</hi> poſſeſſed it.</p>
+                  </div>
+               </div>
+               <div n="5" type="article">
+                  <p n="5">5. The Affairs of the ſaid late erected Company are managed and carried on in a way very grievous; for when any Diſputes have ariſen be<g ref="char:EOLhyphen"/>tween them and their Maſters, and Owners of Ships, or Seamen, <hi>&amp;c.</hi> they will ever be their own Judges; They have unjuſtly, and without any good colour, ſeized and converted to their own uſes here in <hi>England</hi> di<g ref="char:EOLhyphen"/>vers parcels of Merchants Goods without any legal proceedings, al<g ref="char:EOLhyphen"/>ledging that they will not be tryed by Juryes, <hi>&amp;c.</hi> And if it hap<g ref="char:EOLhyphen"/>pen that any Perſon whoſe Goods they have wrongfully ſeized ſeek his remedy by his Majeſties known Laws of the Land, they preſently threaten to cauſe the Matter to be brought before, and determined by
+<pb n="14" facs="tcp:51009:10"/>
+his Majeſty and Council; and accordingly have done it, to the end they might over-awe all Perſons at their own will and pleaſure, and affright them from endeavouring to ſeek after the uſual, plain and appointed way of Legal proceedings for the redreſs of the Wrongs they receive from them.</p>
+                  <div n="5" type="response">
+                     <head>To the fifth the ſaid Company ſay,</head>
+                     <p>There have never any differences ariſen between the Company and any of their Maſters and Owners of Ships, or Seamen, which have not been amicably ended in the ſame manner as the <hi>Eaſt-India Company</hi> de<g ref="char:EOLhyphen"/>termined matters of that nature: And as to that charge, That the Com<g ref="char:EOLhyphen"/>pany have unjuſtly, and without any good colour, ſeiſed and converted divers parcels of Merchants Goods to their own uſe, the Company ſay, That they never did uſe any ſuch unjuſt practice; but they acknowledge, That the Petitioner <hi>Skutt</hi> having let a Ship to this Company for a Voy<g ref="char:EOLhyphen"/>age to <hi>Guiney,</hi> and by <hi>Charter-party</hi> covenanting to carry no other but the Companies Goods therein, the Company upon ſearch made in the ſaid Ship found a parcel of Goods which were none of theirs, nor licenced by them to be carried, and thereupon they ordered them to be taken out of the ſaid Ship, and carried into the Companies Warehouſe; and af<g ref="char:EOLhyphen"/>terwards one <hi>John Kirckham,</hi> who it ſeems was Partner with the ſaid <hi>Skutt,</hi> brought his Suit in the Exchequer againſt ſome of the Servants
+<pb n="15" facs="tcp:51009:10"/>
+imployed by this Company; and thereupon (true it is) that the Com<g ref="char:EOLhyphen"/>pany did humbly repreſent the truth of the matter before the King and Council, praying their direction therein, conceiving if a practice of this nature ſhould be admitted, it would be deſtructive to the Charter: But the King and Council made no Order therein; and afterwards the ſaid <hi>Kirkham</hi> did agree to refer the matter to two of this Company, yet to this day has not made any application to have the ſame determi<g ref="char:EOLhyphen"/>ned; and the Company now are and ever were ready to appear and an<g ref="char:EOLhyphen"/>ſwer any Suit he or any other ſhall commence againſt them at Law; And they ſay, that is abſolutely falſe, that the Company ever ſaid they would not be tried by Jury; which imputation being ſo ſcandalous and falſe, the Company hopes this Honourable Houſe will give them repa<g ref="char:EOLhyphen"/>rations againſt the Petitioners.</p>
+                  </div>
+               </div>
+               <div n="6" type="article">
+                  <p n="6">6. The <hi>Dutch Weſt-India Company</hi> had formerly a farre greater Trade to <hi>Guiney</hi> than the <hi>Engliſh;</hi> but for many years paſt, before the conſti<g ref="char:EOLhyphen"/>tution of this Company, and whilſt the Trade for Gold was in the management of the Worthy the <hi>Eaſt-India Company,</hi> and an open free Trade for <hi>Negroes</hi> allowed to all Adventurers, the ſaid <hi>Dutch</hi> Trade did yearly ſo apparently decay, that One hundred pound Sterling of their Original and Principal Stock was not worth Ten pounds Sterling, Whereas ſince the ſaid late erected Company have taken place, each One hundred pounds Sterling of the <hi>Dutch</hi> is now become worth near Sixty pounds Sterling, And the Concerns of the <hi>Engliſh</hi> go as much to wrack, and will undoubtedly in a few years, as alſo his Majeſties ſaid Colonies in <hi>America,</hi> unleſs ſeaſonably prevented, be brought to nought.</p>
+                  <div n="6" type="response">
+                     <head>To the ſixth the ſaid Company ſay,</head>
+                     <p>It's wholly untrue what they alledge; for it is notorious that from the time of the forming of this Company, to the time of <hi>de Ruyters</hi> ta<g ref="char:EOLhyphen"/>king their Ships at <hi>Goree,</hi> the <hi>Hollands Weſt-India</hi> Stock declined from 14 to 10 <hi>per Cent.</hi> and was never ſince valued at above 18 <hi>per Cent.</hi> at higheſt, which advance proceeded from their Capture of this Compa<g ref="char:EOLhyphen"/>nies Eſtate, and not from the mal-adminiſtration of the Trade; for with<g ref="char:EOLhyphen"/>out reflection upon the <hi>Eaſt-India</hi> Company, they affirm, (and let their Books and this Companies be Judges) That this Company ſent out more Goods in one year to that Coaſt, than the <hi>Eaſt-India</hi> Company did in all thoſe five years in which they had the Trade: And which is yet more, for every ſhillings-worth of <hi>Engliſh</hi> Manufacture which that Company exported for that Trade, this Company ſent a pounds-worth, and that of Manufactures of the ſame Species, which this Company procured to be made here, and the <hi>Eaſt-India</hi> Company bought from <hi>Holland:</hi> So as it appears, That neither the <hi>Hollanders</hi> Trade or Stock is ſo much en<g ref="char:EOLhyphen"/>creaſed, nor ours decreaſed, as the Petitioners moſt miſtakingly alledge; nor can this Company be affected with any thing but what befel them by the War, which was their misfortune, and not their crime.</p>
+                  </div>
+               </div>
+               <div n="7" type="article">
+                  <p n="7">7. If it ſhall be objected, That this Company doth not participate of a Monopoly, becauſe their Books were laid open for all men to ſub<g ref="char:EOLhyphen"/>ſcribe that would? It is anſwered, That their Books indeed were for ſome time laid open, But not till upon good grounds it was generally
+<pb n="16" facs="tcp:51009:11"/>
+believed that the moſt part of their Stocks was conſumed, And they had run themſelves upon ſo many other great Inconveniencies, That no prudent Merchant, who onely aimed at a Profit upon the Stock, without ſeeking after indirect Advantages from the Company in other by-wayes, would engage amongſt them.</p>
+                  <list>
+                     <item>
+                        <hi>Paul Painter.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Batſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Ferdinando Gorges.</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Skutt.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Knights.</hi>
+                     </item>
+                  </list>
+                  <div n="7" type="response">
+                     <head>To the ſeventh the ſaid Company ſay,</head>
+                     <p>The Companies Books were open when the Charter was firſt grant<g ref="char:EOLhyphen"/>ed and made publick, as by the ſeveral Printed Declarations hereunto annexed doth appear, which were fixed in all parts of <hi>England,</hi> and in all
+<pb n="17" facs="tcp:51009:11"/>
+the <hi>American</hi> Plantations: And no diſparagement to the Petitioners, as prudent and honeſt men as themſelves did ſubſcribe without any of thoſe indirect and by-aims as they pretend, as this Honourable Houſe will per<g ref="char:EOLhyphen"/>ceive when they peruſe the liſt of the Adventurers names hereunto an<g ref="char:EOLhyphen"/>nexed; and we doubt not but they will likewiſe give reparations to ſo many worthy perſons as by this Article are ſcandalouſly abuſed; Eſpe<g ref="char:EOLhyphen"/>cially when it ſhall be conſidered,</p>
+                     <p>Firſt, That the Stock which preceded this preſent Stock was never more than 17400. <hi>l.</hi> and though the moſt part of that were laid out in erecting two Forts, and ſetling Garriſons to ſecure the whole Trade of the River of <hi>Gambia;</hi> yet no man that knows any thing of the importance of that River, would think that a conſumption of the Stock, but a moſt prudent imployment of it, from whence a plentiful harveſt of profit was rationally to be expected, and hath been, and may yet more abundantly be reaped; and therefore the Merchants who engaged in the new Subſcription were not ſo im<g ref="char:EOLhyphen"/>prudent as the Petitioners report them.</p>
+                     <p>Secondly, That thoſe Merchants who engaged in this preſent Ad<g ref="char:EOLhyphen"/>ditional Stock, were not men that aimed at indirect Advantages by it; for <hi>de facto</hi> it will appear by the Books, that thoſe who had the adminiſtration of it, did ſo faithfully and induſtriouſly ma<g ref="char:EOLhyphen"/>nage the Trade, and ſo far engaged their own perſonal Credits for the Common Intereſt, that before 80000 <hi>l.</hi> of the ſubſcribed Stock was paid in, they had ſent out to the value of 150000 <hi>l.</hi> and by a clear ballance of the Books had gained 80000 <hi>l.</hi>
+                     </p>
+                     <p>From all which this Company doth humbly preſume to hope that the Wiſedom of Parliament will diſcover:</p>
+                     <list>
+                        <item>That this Trade incorporated to this Company is in its Conſtitution National.</item>
+                        <item>That without Forts and force by Land and Sea, it cannot be ſecured to this Kingdom.</item>
+                        <item>That without the Royal Authority, and a Joynt Stock, thoſe Forts and Forces cannot be ſupported.</item>
+                        <item>That the whole Charge cannot be born, but by the United Advan<g ref="char:EOLhyphen"/>tage of the Trade of the whole Coaſt of <hi>Africa.</hi>
+                        </item>
+                     </list>
+                     <p>And upon the whole, that theſe Petitioners Allegations will reſolve into this, That they being poſſeſſed of a ſufficient part of our Stock on which to manage the Trade of <hi>Blacks</hi> themſelves, they would have the Authority of this Houſe to follow it for their own Accounts, as they have had the advantage of the dilatory proceedings of the Courts of <hi>Bar<g ref="char:EOLhyphen"/>badoes,</hi>
+                        <pb n="18" facs="tcp:51009:12"/>
+to detain the Companie's Eſtate from them, wherein the Planters (our Debtors) are Judges.</p>
+                     <p>One thing the ſaid Company muſt needs adde, That they believe a Correſpondence muſt needs have been between theſe Complainers and the <hi>Dutch;</hi> for before we knew any thing of their Deſign, or before they had preſented their Petition to this Honourable Houſe, they had ta<g ref="char:EOLhyphen"/>ken care to make the <hi>Dutch</hi> rejoyce at the Ruine of the <hi>Royal Company,</hi> which is expreſſed in the <hi>Harlem Gazett</hi> of the 30th. of <hi>October.</hi> So that we have too much cauſe to ſuſpect they are under-hand ſet on by the <hi>Dutch Weſt-India Company,</hi> who doubtleſs would purchaſe the Diſſoluti<g ref="char:EOLhyphen"/>on of this Company with a greater Summe of Money than ever was ſubſcribed to ſupport it.</p>
+                     <closer>
+                        <signed>
+                           <hi>By Order of the Company of Royal Adventurers of</hi> England <hi>Trading into</hi> Africa. ELLIS LEIGHTON, Secret.</signed>
+                     </closer>
+                     <pb facs="tcp:51009:12"/>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
